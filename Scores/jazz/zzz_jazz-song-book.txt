@@ -1,0 +1,32 @@
+Stephen's Jazz Book Style
+#########################
+
+1. Use Musescore 2.0.3 template for Jazz Lead Sheet
+
+2. Enter Title and Subtitle, Compose and Lyricist if known.
+
+3. File name for standard key is song name. For other keys, suffix key
+   to song name.
+   
+       'My Song.mscz'
+       'My Song-Eb.mscz'
+
+4. Set space size to 1.6 (rather than default 1.85)
+
+5. Add bar numbers at the start of every line
+
+6. Add standard key as 'Subtitle' text, but manually change font size
+   to 10 pt.
+   
+7. Add sections markers (Intro, A, B, C, outro, etc) as rehearsal marks
+   (ctrl M) where needed.
+
+8. Adjust title spacer, lyrics margins, etc where needed. Add spacers
+
+9. Use a horizontal spacer between end of song and coda.
+
+10. Add a tempo marker at the beginning where needed.
+
+11. Adjust swing settings for playback where needed.
+
+12. 
